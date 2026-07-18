@@ -1,4 +1,4 @@
-# 🚀 FinovaAI — Smart Finance Intelligence Platform.
+# 🚀 FinovaAI — Smart Finance Intelligence Platform./
 
 > 💡 *Turn Financial Complexity into Confident Decisions*
 
